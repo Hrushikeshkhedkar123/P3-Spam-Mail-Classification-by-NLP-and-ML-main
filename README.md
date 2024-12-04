@@ -2,7 +2,7 @@
 
 Welcome to the Email Spam Classifier repository!
 
-#Running the Streamlit Application
+# Running the Streamlit Application
 
 This Email Spam Classifier comes with a user-friendly interface powered by Streamlit. Follow these steps to run the application locally:
 
