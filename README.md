@@ -13,3 +13,11 @@ pip install -r requirements.txt
 2. Run the Application:
 
 streamlit run app.py
+
+# Usage
+
+1. Enter the Message/Email: Open the application and input the message or email you want to classify as Spam or Not Spam.
+
+2. Click Predict: Hit the "Predict" button to initiate the classification process.
+
+3. Get the Result: The model will provide the classification result, and you'll see if the message is identified as "Spam" or "Not Spam."
